@@ -1,0 +1,103 @@
+C:\Users\Tomo\source\repos\Tondach\Tondach\bin\Release\Tondach.exe.config
+C:\Users\Tomo\source\repos\Tondach\Tondach\bin\Release\Tondach.exe
+C:\Users\Tomo\source\repos\Tondach\Tondach\bin\Release\Tondach.pdb
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.Dodaj.resources
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.Novi.resources
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.Pocetna.resources
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.Properties.Resources.resources
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.csproj.GenerateResource.cache
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.exe
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.pdb
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.csprojAssemblyReference.cache
+C:\Users\Tomo\source\repos\Tondach\Tondach\bin\Release\Tondach.exe.manifest
+C:\Users\Tomo\source\repos\Tondach\Tondach\bin\Release\Tondach.application
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.exe.manifest
+C:\Users\Tomo\source\repos\Tondach\Tondach\obj\Release\Tondach.application
+C:\Users\ivana\Desktop\Tondach\Tondach\bin\Release\Tondach.exe.config
+C:\Users\ivana\Desktop\Tondach\Tondach\bin\Release\Tondach.exe.manifest
+C:\Users\ivana\Desktop\Tondach\Tondach\bin\Release\Tondach.application
+C:\Users\ivana\Desktop\Tondach\Tondach\bin\Release\Tondach.exe
+C:\Users\ivana\Desktop\Tondach\Tondach\bin\Release\Tondach.pdb
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.csprojAssemblyReference.cache
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.Dodaj.resources
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.Novi.resources
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.Pocetna.resources
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.Properties.Resources.resources
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.csproj.GenerateResource.cache
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.exe.manifest
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.application
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.exe
+C:\Users\ivana\Desktop\Tondach\Tondach\obj\Release\Tondach.pdb
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.config
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.manifest
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.application
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.pdb
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csprojAssemblyReference.cache
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Dodaj.resources
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Ispis.resources
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Novi.resources
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Pocetna.resources
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.GenerateResource.cache
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe.manifest
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.application
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe
+C:\Users\Tomislav\Desktop\smes\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.pdb
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.config
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.manifest
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.application
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.pdb
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csprojAssemblyReference.cache
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Dodaj.resources
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Ispis.resources
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Novi.resources
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Pocetna.resources
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Properties.Resources.resources
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.GenerateResource.cache
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe.manifest
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.application
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.pdb
+C:\Users\ivana\Desktop\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Skladiste.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.config
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.manifest
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.application
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.pdb
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csprojAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Dodaj.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Ispis.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Novi.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Pocetna.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Skladiste.resources
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.GenerateResource.cache
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe.manifest
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.application
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe
+C:\Users\Tomislav\Desktop\Tunti slao\FinallWien\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.pdb
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.config
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe.manifest
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.application
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.exe
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\bin\Release\Tondach.pdb
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csprojAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Dodaj.resources
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Ispis.resources
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Novi.resources
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Pocetna.resources
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.Skladiste.resources
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.GenerateResource.cache
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe.manifest
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.application
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.exe
+C:\Users\Tomislav\Desktop\Wienerberger- Pon\ZaFirmu\Tondach\Tondach\obj\Release\Tondach.pdb

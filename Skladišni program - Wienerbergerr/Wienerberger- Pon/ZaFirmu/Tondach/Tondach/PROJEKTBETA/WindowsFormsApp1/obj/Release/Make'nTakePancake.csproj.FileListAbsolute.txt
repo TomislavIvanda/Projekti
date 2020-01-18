@@ -1,0 +1,175 @@
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\DB palacinke.db
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\ace.exe.config
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\ace.exe
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\ace.pdb
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Dapper.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Core.WinForms.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Licensing.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Windows.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.SpellChecker.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Windows.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Dapper.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Pregled.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Registracija.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Tjedna.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Make.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Odaberi.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Form1.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Main.Main.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\ace.exe
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\ace.pdb
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Release\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\DB palacinke.db
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\ace.exe.config
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\ace.exe
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\ace.pdb
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Dapper.dll
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Dapper.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Pregled.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Registracija.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Make.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Form1.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.Main.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\ace.exe
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\ace.pdb
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Release\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\DB palacinke.db
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.exe.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.pdb
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Dapper.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Dapper.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Pregled.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Registracija.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Make.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Form1.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Main.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Release\ace.pdb
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.exe.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.pdb
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Dapper.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Dapper.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Pregled.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Registracija.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Make.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Form1.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Main.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\ace.pdb
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.exe.config
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.exe
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\ace.pdb
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Dapper.dll
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Dapper.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Pregled.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Registracija.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Make.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Form1.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Main.Main.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\ace.exe
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Release\ace.pdb

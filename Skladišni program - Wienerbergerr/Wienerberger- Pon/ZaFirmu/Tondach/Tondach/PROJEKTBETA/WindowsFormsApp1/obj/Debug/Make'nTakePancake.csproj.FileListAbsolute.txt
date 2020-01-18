@@ -1,0 +1,241 @@
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ace.pdb
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Tomislav\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\DB palacinke.db
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Registracija.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Korisnik\Desktop\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\ace.pdb
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\DB palacinke.db
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Registracija.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Tomislav\Downloads\Make'n Take Pancake.rar1 1\Make'n Take Pancake\WindowsFormsApp1\obj\Debug\ace.pdb
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\DB palacinke.db
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Registracija.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\ace.pdb
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\Projekt\WindowsFormsApp1\obj\Debug\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\DB palacinke.db
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Registracija.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\WindowsFormsApp1\obj\Debug\ace.pdb
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Registracija.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Tomo\Desktop\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\ace.pdb
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.exe.config
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.exe
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\ace.pdb
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csprojAssemblyReference.cache
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.PregledTjedna.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.PregledOdabranih.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Pregled.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Registracija.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Tjedna.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Make.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Odaberi.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Form1.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Main.Main.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\Make'nTakePancake.csproj.CopyComplete
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\ace.exe
+C:\Users\Tomo\Desktop\NOVI NOVI\PROJEKTBETA\PROJEKTBETA\WindowsFormsApp1\obj\Debug\ace.pdb
